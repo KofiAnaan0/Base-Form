@@ -46,6 +46,4 @@ This data can be used for football analytics, sports betting insights, or any ot
    python generate_json.py
    ```
 4. The script will output a JSON file with the following structure:
-   ```bash
-   python generate_json.py
-   ```
+   ![Out put](Images/bundesliga.JPG)
