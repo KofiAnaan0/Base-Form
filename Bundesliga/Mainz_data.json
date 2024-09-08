@@ -1,0 +1,70 @@
+{
+  "home_team": {
+    "name": "Mainz",
+    "recent_matches": {
+      "teams": {
+        "match_one": ["Stuttgart", "Mainz"],
+        "match_two": ["Mainz", "Union Berlin"],
+        "match_three": ["Wolfsburg", "Mainz"],
+        "match_four": ["Mainz", "Dortmund"],
+        "match_five": ["Heidenheim", "Mainz"],
+        "match_six": ["Mainz", "FC Koln"],
+        "match_seven": ["Freiburg", "Mainz"]
+      },
+      "goals": {
+        "match_one": [3, 3],
+        "match_two": [1, 1],
+        "match_three": [1, 3],
+        "match_four": [3, 0],
+        "match_five": [1, 1],
+        "match_six": [1, 1],
+        "match_seven": [1, 1]
+      },
+      "x_goals": {
+        "match_one": [5.21, 2.25],
+        "match_two": [1.33, 1.02],
+        "match_three": [1.13, 1.65],
+        "match_four": [2.47, 0.67],
+        "match_five": [1.29, 0.93],
+        "match_six": [2.25, 3.03],
+        "match_seven": [1.35, 1.55]
+      },
+      "corners": {
+        "match_one": [11, 2],
+        "match_two": [8, 9],
+        "match_three": [1, 3],
+        "match_four": [4, 2],
+        "match_five": [6, 3],
+        "match_six": [6, 6],
+        "match_seven": [2, 4]
+      },
+      "fouls": {
+        "match_one": [6, 12],
+        "match_two": [9, 15],
+        "match_three": [13, 15],
+        "match_four": [14, 11],
+        "match_five": [8, 8],
+        "match_six": [17, 13],
+        "match_seven": [17, 15]
+      },
+      "HT_cards": {
+        "match_one": [1, 0],
+        "match_two": [1, 1],
+        "match_three": [0, 1],
+        "match_four": [0, 1],
+        "match_five": [1, 1],
+        "match_six": [1, 1],
+        "match_seven": [2, 1]
+      },
+      "FT_cards": {
+        "match_one": [4, 2],
+        "match_two": [1, 3],
+        "match_three": [2, 2],
+        "match_four": [2, 2],
+        "match_five": [2, 3],
+        "match_six": [5, 4],
+        "match_seven": [3, 4]
+      }
+    }
+  }
+}

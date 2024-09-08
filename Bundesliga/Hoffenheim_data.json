@@ -1,0 +1,217 @@
+{
+    "home_team": {
+        "name": "Hoffenheim",
+        "recent_matches": {
+            "teams": {
+                "match_one": [
+                    "Eintracht Frankfurt",
+                    "Hoffenheim"
+                ],
+                "match_two": [
+                    "Hoffenheim",
+                    "Holstein Kiel"
+                ],
+                "match_three": [
+                    "Hoffenheim",
+                    "Bayern Munich"
+                ],
+                "match_four": [
+                    "Darmstadt",
+                    "Hoffenheim"
+                ],
+                "match_five": [
+                    "Hoffenheim",
+                    "RB Leipzig"
+                ],
+                "match_six": [
+                    "Bochum",
+                    "Hoffenheim"
+                ],
+                "match_seven": [
+                    "Heidenheim",
+                    "B. Monchengladbach"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    3,
+                    1
+                ],
+                "match_two": [
+                    3,
+                    2
+                ],
+                "match_three": [
+                    4,
+                    2
+                ],
+                "match_four": [
+                    0,
+                    6
+                ],
+                "match_five": [
+                    1,
+                    1
+                ],
+                "match_six": [
+                    3,
+                    2
+                ],
+                "match_seven": [
+                    4,
+                    3
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    2.6,
+                    1.29
+                ],
+                "match_two": [
+                    3.01,
+                    2.11
+                ],
+                "match_three": [
+                    2.21,
+                    1.59
+                ],
+                "match_four": [
+                    0.67,
+                    3.22
+                ],
+                "match_five": [
+                    1.66,
+                    0.86
+                ],
+                "match_six": [
+                    3.92,
+                    2.18
+                ],
+                "match_seven": [
+                    2.22,
+                    1.61
+                ]
+            },
+            "corners": {
+                "match_one": [
+                    1,
+                    4
+                ],
+                "match_two": [
+                    8,
+                    6
+                ],
+                "match_three": [
+                    6,
+                    5
+                ],
+                "match_four": [
+                    2,
+                    3
+                ],
+                "match_five": [
+                    4,
+                    4
+                ],
+                "match_six": [
+                    10,
+                    4
+                ],
+                "match_seven": [
+                    6,
+                    5
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    10,
+                    10
+                ],
+                "match_two": [
+                    8,
+                    14
+                ],
+                "match_three": [
+                    7,
+                    9
+                ],
+                "match_four": [
+                    9,
+                    3
+                ],
+                "match_five": [
+                    6,
+                    8
+                ],
+                "match_six": [
+                    13,
+                    10
+                ],
+                "match_seven": [
+                    6,
+                    11
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    1
+                ],
+                "match_two": [
+                    0,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    2,
+                    1
+                ],
+                "match_six": [
+                    1,
+                    1
+                ],
+                "match_seven": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    0,
+                    3
+                ],
+                "match_two": [
+                    2,
+                    4
+                ],
+                "match_three": [
+                    3,
+                    1
+                ],
+                "match_four": [
+                    3,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    4
+                ],
+                "match_six": [
+                    1,
+                    1
+                ],
+                "match_seven": [
+                    1,
+                    3
+                ]
+            }
+        }
+    }
+}
